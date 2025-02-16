@@ -45,6 +45,7 @@ In my spare time, I focus on expanding my knowledge and enhancing my skill set. 
 <h2>Technical Skills</h2>
 <ul>
   <li>Manual Testing: Functional Testing, Regression Testing, Smoke Testing, Integration Testing</li>
+    <li>API Testing: SOAP and REST APIs</li>
    <li>Automation Tools: Selenium WebDriver, Appium, Java, TestNG, JUnit</li>
    <li>Automation Frameworks: Page Object Model, Data-Driven Testing</li>
    <li>Databases: MS SQL</li>
